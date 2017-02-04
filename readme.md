@@ -1,14 +1,14 @@
-# Homework 7 - Startup Matchmaker
+# Homework  - Startup Matchmaker
 
 Mark-up and style a responsive website.
 
 ### Step 1 - Fork this repository.
 
-From the assignment homepage (https://github.com/fewd90nyc/fewd90week7), click the "Fork" link on the top right. This will create a copy of the assignment in YOUR github account.
+From the assignment homepage (https://github.com/amandawraymond/FEWD-startup_matchmaker), click the "Fork" link on the top right. This will create a copy of the assignment in YOUR github account.
 
 ### Step 2 - Clone your forked repository.
 
-From the repository homepage (which will be http://github.com/YOURUSERNAME/fewd90week7), click on green "Clone or Download" button and "Open in Desktop". This should open your Github Desktop App and prompt you to save the fewd90week7 folder on your computer.
+From the repository homepage (which will be http://github.com/YOURUSERNAME/FEWD-startup_matchmaker), click on green "Clone or Download" button and "Open in Desktop". This should open your Github Desktop App and prompt you to save the FEWD-startup_matchmaker folder on your computer.
 
 ### Step 3 - Build!
 
@@ -22,9 +22,9 @@ Work on your website locally and view it in the browser by opening your index.ht
 
 ### Step 5 - Pull Request
 
-Send a Pull Request to submit your homework. From your fewd90week7 page on github.com (https://github.com/YOURUSERNAME/fewd90week7), click on the "New Pull Request" button and follow the prompts. 
+Send a Pull Request to submit your homework. From your FEWD-startup_matchermaker page on github.com (https://github.com/YOURUSERNAME/FEWD-startup_matchermaker), click on the "New Pull Request" button and follow the prompts. 
 
 ### Step 6 - Publish with [Gitbot](http://gitbot.co/)! (optional)
 
-Want to post your fewd90week7 project on your github.io url? Log into gitbot and click the fewd90week7 repository button and VOILA! It will (perhaps after a few minutes) be viewable online at http://YOURUSERNAME.github.io/fewd90week7
+Want to post your FEWD-startup_matchermaker project on your github.io url? Log into gitbot and click the FEWD-startup_matchermaker repository button and VOILA! It will (perhaps after a few minutes) be viewable online at http://YOURUSERNAME.github.io/FEWD-startup_matchermaker
 
